@@ -1,9 +1,6 @@
 :root {
-    --blur: 10px;
-    --op: 12%;
-    --sep: 62%;
+    --blur: 0px;
 }
-
 * {
     margin:0;
     padding:0;
